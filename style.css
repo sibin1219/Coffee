@@ -1,0 +1,388 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(247, 234, 123);
+}
+.div1{
+    background-color: rgb(220, 153, 60); 
+    width: 100%;
+    height: 100px;
+    display: flex;
+    padding: 10px;
+}
+.div1 h1{
+    margin-left: 200px;
+    font-family: Black Ops One;
+    color: rgb(56, 28, 9);
+    font-size: 100px;
+    position: absolute;
+    text-shadow: 4px 5px 4px  rgb(91, 62, 62);
+    text-align: center;
+    background-color: rgb(220, 153, 60); 
+    
+    
+}
+.div1 img{
+    width: 100px;
+    height: 100px;
+    margin-left: 20px;
+    background-color: rgb(220, 153, 60); 
+}
+.div2{
+    background-color:  rgb(220, 153, 60);
+    width: 100%;
+    height: 20px;
+    
+    position: sticky;
+    top: 0;
+    
+ }
+.div2 h2{
+    margin-left: 500px;
+ font-size: small;
+    position: absolute;
+    text-align: center;
+    background-color: rgb(220, 153, 60); 
+    
+    
+    
+    
+    
+}
+#main{
+    background-color: rgb(247, 234, 123);
+    height: 1600px;
+    
+}
+#section1{
+    margin-top: 20px;
+}
+#section1 h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color: rgb(56, 28, 9);
+    
+}
+#para{
+    border: 3px solid rgb(56, 28, 9);
+    border-radius: 20px;
+    width: 800px;
+    margin-left: 190px;
+    margin-top: 60px; 
+    
+    
+}
+#para p{
+   text-align: left;
+    margin: 20px;
+    margin-left: 110px;
+    margin-right: 110px;
+    
+}
+#m2 ul{
+    margin-left: 30px;
+}
+header h1{
+    font-family: Shadows Into Light;
+    font-size: 60px;
+    font-weight: bolder;
+    color: rgb(48, 31, 19);
+    text-shadow: 2px 3px 4px black;
+    text-align: center;
+}
+#pp{
+    margin-left: 10px;
+}
+.row{
+    display: flex;
+    
+}
+.row img{
+    width: 250px;
+    object-fit: cover;
+    height: 200px;
+    box-shadow: 4px 4px 6px black;
+  transition: ease-in-out;
+    transform: scale(1.1);
+    border-radius: 10px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+#d2 h1{
+    font-family: Shadows Into Light;
+    font-size: 60px;
+    font-weight: bolder;
+    color: rgb(48, 31, 19);
+    text-shadow: 2px 3px 4px black;
+    text-align: center;
+
+}
+.row dl{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.row dl dd{
+    text-align: left;
+    
+}
+#ddd{
+    width: 580px;
+}
+
+
+.row2{
+    display: flex;
+    
+}
+.row2 img{
+    width: 250px;
+    object-fit: cover;
+    height: 200px;
+    box-shadow: 4px 4px 6px black;
+  
+    transform: scale(1.1);
+    border-radius: 10px;
+    margin-left: 130px;
+    margin-top: 30px;
+}
+
+.row2 dl{
+    margin-left: 120px;
+    margin-top: 50px;
+}
+.row2 dl dd{
+    text-align: left;
+    
+}
+
+#ddd2{
+    width: 580px;
+}
+
+.row3{
+    display: flex;
+    
+}
+.row3 img{
+    width: 250px;
+    object-fit: cover;
+    height: 200px;
+    box-shadow: 4px 4px 6px black;
+  transition: ease-in-out;
+    transform: scale(1.1);
+    border-radius: 10px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.row3 dl{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.row3 dl dd{
+    text-align: left;
+    
+}
+#ddd{
+    width: 580px;
+}
+
+
+.row4{
+    display: flex;
+    
+}
+.row4 img{
+    width: 250px;
+    object-fit: cover;
+    height: 200px;
+    box-shadow: 4px 4px 6px black;
+  transition: ease-in-out;
+    transform: scale(1.1);
+    border-radius: 10px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.row4 dl{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.row4 dl dd{
+    text-align: left;
+    
+}
+#ddd{
+    width: 580px;
+}
+
+
+
+
+.row5{
+    display: flex;
+    
+}
+.row5 img{
+    width: 250px;
+    object-fit: cover;
+    height: 200px;
+    box-shadow: 4px 4px 6px black;
+  transition: ease-in-out;
+    transform: scale(1.1);
+    border-radius: 10px;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.row5 dl{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.row5 dl dd{
+    text-align: left;
+    
+}
+#ddd{
+    width: 580px;
+}
+
+
+
+.gallery{
+   
+    background-color: rgb(247, 234, 123);
+    margin-top: 100px;
+
+}
+.main{
+    margin-left: 50px;
+    padding-top: 50px;
+    width: 1100px;
+    height: 965px;
+    background-color: rgb(220, 153, 60);
+    text-align: center;
+    border: 2px solid none;
+    border-radius: 20px;
+    box-shadow: 3px 4px black;
+}
+.main h1{
+    font-family: Shadows Into Light;
+    font-size: 68px;
+    background-color: rgb(220, 153, 60);
+}
+.pics{
+    
+}
+.pic img{
+    width: 300px;
+    height: 250px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 20px;
+    float: left;
+}
+.pic img:hover{
+        transform: scale(0.9);
+        box-shadow: 3px 4px 4px black;
+}
+.end{
+    /* background-color: rgb(252 187 94); */
+    background-color: rgb(247, 234, 123);
+}
+.end h1{
+    font-family: Shadows Into Light;
+    font-size: 58px;
+    text-align: center;
+    padding-top: 4px;
+}
+.query{
+    width: 758px;
+    height: 380px;
+    background-color: rgb(220, 153, 60);
+    
+    margin-left: 178px;
+    margin-top: 31px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 50px;
+    align-items: center;
+}
+.query form{
+    margin-left: 168px;
+    margin-top: 40px;
+    background-color: rgb(220, 153, 60);
+    
+}
+.query form label{
+    font-size: large;
+    margin-top: 9px;
+    background-color: rgb(220, 153, 60);
+    
+}
+.query form input{
+    width: 400px;
+    height: 30px;
+    margin-top: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    
+}
+.query form textarea{
+    width: 400px;
+    height: 80px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.query form button{
+    margin-left: 197px;
+    margin-top: 30px;
+    padding: 10px;
+    color: rgb(251, 251, 251);
+    background-color: rgb(100, 57, 18);
+    border-radius: 5px;
+}
+.footer{
+    /* background-color: rgb(220, 153, 60); */
+    border: 2px solid none;
+    border-radius: 5px;
+    margin-top: 10px;
+    display: flex;
+    /* background-color: rgb(247, 234, 123); */
+   
+.icon img{
+    width: 110px;
+    height: 100px;
+    padding-left: 100px;
+    padding-top: 13px;
+    
+}
+.reach h1{
+    font-family: Shadows Into Light;
+    padding-left: 175px;
+    padding-top: 10px;
+  
+}
+.reach h4{
+    padding-left:175px ;
+    
+
+}
+.reach span{
+    padding-left: 10px;
+    
+    
+}
+.address{
+    padding-left: 100px;
+    padding-top: 10px;
+    
+    
+}
+
+#www{
+   
+  
+    width: 100%;
+
+}
